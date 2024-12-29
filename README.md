@@ -192,11 +192,8 @@ PS C:\Users\AXIOO\Documents\KULIAH\matkul b.pemrograman\latihan pert-14>
 
    2.  Validasi Nama:
        - Program memeriksa apakah nama hanya mengandung huruf dengan isalpha().
-       - Jika ada angka atau simbol, program akan menampilkan error:
-
-  Error: Nama harus hanya berisi huruf.
-
-   replace(" ", "") memungkinkan spasi dalam nama tanpa menyebabkan error.
+       - Jika ada angka atau simbol, program akan menampilkan error: Error: Nama harus hanya berisi huruf.
+       - replace(" ", "") memungkinkan spasi dalam nama tanpa menyebabkan error.
 
 3. Validasi Nomor Telepon:
 
