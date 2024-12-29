@@ -180,8 +180,8 @@ Masukkan email: fitrirmdhni002@gmail.com
 Data pendaftaran valid.
 
 Masukkan nama lengkap: Noel G4ntEng 
-Masukkan nomor telepon: 0838i07066072
-Masukkan email: noellondokgmailcom
+Masukkan nomor telepon: 083822100672
+Masukkan email: noellondok@gmail.com
 Error: Nama harus hanya berisi huruf.
 PS C:\Users\AXIOO\Documents\KULIAH\matkul b.pemrograman\latihan pert-14>
 ```
@@ -198,9 +198,7 @@ PS C:\Users\AXIOO\Documents\KULIAH\matkul b.pemrograman\latihan pert-14>
 3. Validasi Nomor Telepon:
 
    - isdigit() digunakan untuk memeriksa apakah nomor telepon hanya berisi angka.
-   - Jika ada huruf atau simbol, error ditampilkan:
-
-    Error: Nomor telepon harus hanya berisi angka.
+   - Jika ada huruf atau simbol, error ditampilkan: Error: Nomor telepon harus hanya berisi angka.
 
 4. Validasi Email:
    - Program memeriksa apakah email mengandung @ dan ..
